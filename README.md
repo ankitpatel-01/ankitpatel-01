@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Patel</h1>
 
-<h3 align="center">I thought I am pro in grammar so, I became a Programmer.<br>🤣 I know it is PJ.</h3>
-
 - 📫 How to reach me **ankitpatelak2017@gmail.com**
 
 - ⚡ Fun fact **I code 😅**
