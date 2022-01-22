@@ -25,7 +25,7 @@ Hey, My Name is Ankit Patel, I'm a final year Computer Science & Enginnering stu
 </a>
 
 <a href="https://angular.io/">
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/angular%20-%23F05033.svg?&style=for-the-badge&logo=angular&logoColor=%2361DAFB"/>
 </a>
 
 <a href="https://git-scm.com/">
