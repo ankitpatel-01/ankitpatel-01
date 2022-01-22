@@ -24,6 +24,10 @@ Hey, My Name is Ankit Patel, I'm a final year Computer Science & Enginnering stu
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </a>
 
+<a href="https://angular.io/">
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
+</a>
+
 <a href="https://git-scm.com/">
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </a>
@@ -37,7 +41,7 @@ Hey, My Name is Ankit Patel, I'm a final year Computer Science & Enginnering stu
 </a>
 
 <hr>
-<h2 align="center">✨ Where you can find me ✨</h2>
+## Where you can find me
 - 📫 How to reach me **ankitpatelak2017@gmail.com**
 
 - ⚡ Fun fact **I code 😅**
