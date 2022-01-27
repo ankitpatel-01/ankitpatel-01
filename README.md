@@ -41,9 +41,9 @@ Hey, My Name is Ankit Patel, I'm a final year Computer Science & Enginnering stu
 </a>
 
 <hr>
+
 ## Where you can find me
 - 📫 How to reach me **ankitpatelak2017@gmail.com**
-
 - ⚡ Fun fact **I code 😅**
 
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitpatel-01&show_icons=true&locale=en" alt="ankitpatel-01" /></p>
